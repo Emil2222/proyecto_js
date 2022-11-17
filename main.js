@@ -21,7 +21,7 @@ function ingresar () {
     }
     else{
         document.write("<link rel='stylesheet' href='main.css'></link>")
-        document.write("<h1>NIP incorrecto, intente de nuevo por favor </h1><br><br><a href ='main.html'>Continuar</a> ")
+        document.write("<h1>NIP incorrecto, intente de nuevo por favor </h1><br><br><a href ='index.html'>Continuar</a> ")
 
     }
 }
